@@ -69,8 +69,7 @@ Para visualizar esta página em seu navegador e testar sua acessibilidade:
     ```
     .
     ├── index.html
-    └── css/
-        └── style.css
+    └── style.css
 
     ```
 
